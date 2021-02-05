@@ -1,6 +1,9 @@
 # Ai-Bot
 An AI based Telegram bot that can describe every photo that you send.
 
+# <p align="left"><a href="https://github.com/Benchamxd/Ai-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Benchamxd&show_icons=true&theme=dark&hide_border=true&repo=Ai-Bot"></a></p><p align="centre"><a href="https://t.me/induschats"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/Benchamxd/Ai-Bot/stargazers"><img src="https://img.shields.io/github/stars/Benchamxd/Ai-Bot?style=social"></a><a href="https://github.com/Benchamxd/Ai-Bot/fork"><img src="https://img.shields.io/github/forks/Benchamxd/Ai-Bot?label=Fork&logoColor=blue&style=social"></a>	<a href="https://github.com/Benchamxd/Ai-Bot"><img src="https://img.shields.io/github/last-commit/Benchamxd/Ai-Bot?style=flat-square"></a></p>
+
+
 [![Send a Message](https://img.shields.io/badge/Send--a--Message-blue?logo=copy&style=for-the-badge "Send a Message")](https://t.me/missAlvi_bot "Send a Message")<br><br>
 
 # DEPLOY
