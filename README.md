@@ -1,8 +1,13 @@
 # Ai-Bot
+<p align="center"><a href="https://t.me/MissAlvi_Bot"><img src="https://telegra.ph/file/fd8fe25c8a0a77a7de606.jpg" width="5000"></a></p> 
+
 An AI based Telegram bot that can describe every photo that you send.
 
-# <p align="left"><a href="https://github.com/Benchamxd/Ai-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Benchamxd&show_icons=true&theme=dark&hide_border=true&repo=Ai-Bot"></a></p><p align="centre"><a href="https://t.me/induschats"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a></p>[![Send a Message](https://img.shields.io/badge/Send--a--Message-blue?logo=copy&style=for-the-badge "Send a Message")](https://t.me/missAlvi_bot "Send a Message")<br><br>
+# Support
 
+<a href="https://t.me/IndusBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/IndusChats"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
@@ -27,6 +32,14 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 For any type of help on deploy. Contact us on [INDUS CHATS](https://t.me/induschats).
 
+# Licence
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+[Ai-Bot](https://github.com/Benchamxd/Ai-Bot) is Free Software: You can use, study share and improve it at your
+will. Specifically you can redistribute and/or modify it under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. 
 
 ##
 
