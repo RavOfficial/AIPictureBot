@@ -26,7 +26,7 @@ var_dump(curl_error($ch));
 return json_decode($res);
 }
 }
-function AlviReplay($image_url)
+function AlviReply($image_url)
 {
     $ch = curl_init('https://captionbot.azurewebsites.net/api/messages');
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['Type' => 'CaptionRequest', 'Content' => $image_url]));
@@ -57,7 +57,7 @@ $patch = $get->result->file_path;
 $URL = 'https://api.telegram.org/file/bot'.API_KEY.'/'.$patch;
 Alvi('sendMessage',[
 'chat_id'=>$chat_id,
-'text'=> AlviReplay($URL),
+'text'=> AlviReply($URL),
 'reply_to_message_id'=>$message_id,
 ]);
 }
@@ -70,7 +70,7 @@ I'm $BOT_NAME a powerfull AI Bot
 
 I will resopnd to any image you send. Send me a image to me, I will say what is That😜
 
-Also add me to your group and make me admin. I'll replay to every photo😌.***",
+Also add me to your group and make me admin. I'll reply to every photo😌.***",
 'reply_to_message_id'=>$message_id,
 'parse_mode'=>"MarkDown",
 'reply_markup' =>  json_encode([
