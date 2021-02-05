@@ -1,0 +1,31 @@
+{
+    "name": "AI BOT",
+    "description": "An AI based Telegram bot that can describe every photo that you send.",
+    "keywords": [
+        "AI",
+        "Alvi",
+        "Fun",
+        "Telegram",
+        "Bot"
+    ],
+    "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
+    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "success_url": "/",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },"BOT_NAME": {
+            "description": "your Telegram Bot Name"
+        },
+        "BOT_NAME": {
+            "description": "Your telegram bot username"
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
