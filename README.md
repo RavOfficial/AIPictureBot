@@ -1,7 +1,7 @@
 # Ai-Bot
 A telegram bot that can describe every photo that you send
 
-[![Demo Bot](https://img.shields.io/badge/Send--a--Message-blue?logo=copy&style=for-the-badge "Send a Message")](https://t.me/missAlvi_Bot"Demo Bot")<br><br>
+[![Send a Message](https://img.shields.io/badge/Send--a--Message-blue?logo=copy&style=for-the-badge "Send a Message")](https://t.me/missAlvi_bot "Send a Message")<br><br>
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
