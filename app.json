@@ -17,7 +17,7 @@
         },"BOT_NAME": {
             "description": "your Telegram Bot Name"
         },
-        "BOT_NAME": {
+        "BOT_USERNAME": {
             "description": "Your telegram bot username"
         }
     },
