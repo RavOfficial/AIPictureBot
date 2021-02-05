@@ -1,5 +1,5 @@
 # Ai-Bot
-A telegram bot that can describe every photo that you send
+An AI based Telegram bot that can describe every photo that you send.
 
 [![Send a Message](https://img.shields.io/badge/Send--a--Message-blue?logo=copy&style=for-the-badge "Send a Message")](https://t.me/missAlvi_bot "Send a Message")<br><br>
 
