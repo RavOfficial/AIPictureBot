@@ -1,18 +1,18 @@
 # Ai-Bot
-<p align="center"><a href="https://t.me/MissAlvi_Bot"><img src="https://telegra.ph/file/fd8fe25c8a0a77a7de606.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/MissAlvi_Bot"><img src="https://telegra.ph/file/3f9015bd5b14ee2a6b08f.jpg" width="5000"></a></p> 
 
 An AI based Telegram bot that can describe every photo that you send.
 
 # Support
 
-<a href="https://t.me/IndusBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HARO_Tech"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/IndusChats"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HARP_Tech"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benchamxd/Ai-Bot/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/Ai-Bot/tree/main)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku URL>``
 
