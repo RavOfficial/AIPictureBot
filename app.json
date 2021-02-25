@@ -8,8 +8,8 @@
         "Telegram",
         "Bot"
     ],
-    "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "logo": "https://telegra.ph/file/3f9015bd5b14ee2a6b08f.jpg",
+    "repository": "https://github.com/OfficialBawwa/Ai-Bot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
