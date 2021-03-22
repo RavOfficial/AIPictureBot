@@ -1,10 +1,8 @@
 <?php
 /*
-AUTHOR:- Official Bawwa
-CHANNEL:- @HARP_Tech
+AUTHOR:- RITHUNAND [BENCHAMXD] 
 THIS REPO IS LICENCED WITH GENERAL PUBLIC LICENSE VERSION:3.0
-
-(c) Bawwa
+(c) RITHUNAND K
 */
 
 require_once __DIR__ . "/config.php";
