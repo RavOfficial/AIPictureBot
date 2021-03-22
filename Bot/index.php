@@ -68,7 +68,8 @@ I'm Lily! A powerfull AI Bot.
 
 I will resopnd to any image you send. Send me a image to me, I will say what is That😜
 
-Also add me to your group and make me admin. I'll reply to every photo. I was made by @HARP_Chat Join and support us෴.***",
+Also add me to your group and make me admin. I'll reply to every photo. I was made by @HARP_Chat Join and support us෴.
+Credits - @IndusBots 🌝***",
 'reply_to_message_id'=>$message_id,
 'parse_mode'=>"MarkDown",
 'reply_markup' =>  json_encode([
